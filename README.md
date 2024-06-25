@@ -1,7 +1,7 @@
 ### Dataset
 [Dataset Link](https://drive.google.com/file/d/1eQfy6FOWwoZ_ZvY9FGiJW3th_IPn3-id/view?usp=sharing)
 
-### Architecture Diagram
+### Model Development Diagram
 ![App Screenshot](https://i.ibb.co.com/cw60xL8/flow-ml-drawio.png)
 
 ### Step To Replicate
